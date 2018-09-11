@@ -1,2 +1,3 @@
 # Bonjour
-juste un repertoir
+Salut tout le monde.
+je veux approfondir mes connaissances 
